@@ -1,0 +1,6 @@
+pyrogram==2.0.106
+python-dotenv==1.0.0
+
+# Optional: tgcrypto (for speed optimization)
+# Requires C compiler on Windows - install Visual Studio Build Tools if needed
+# tgcrypto==1.2.5
